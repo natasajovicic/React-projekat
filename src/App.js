@@ -58,15 +58,7 @@ function App() {
       chosen: false,
       image: '../assets/6.png'
     },
-    {
-      id: 7,
-      name: "Vanja Visnjic",
-      description: 
-        'Smer: Operacioni menadžment Godina: III',
-      chosen: false,
-      image: '../assets/7.jpg'
-    },
-
+    
   ]);
 
   const refreshTeam = () => {
