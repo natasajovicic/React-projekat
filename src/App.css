@@ -1,7 +1,7 @@
 .navBar {
   display: flex;
   flex-direction: row;
-  background-color: rgba(39, 175, 209, 0.767);
+  background-color: rgba(209, 39, 67, 0.767);
   border-bottom-style: solid;
   border-bottom-width: 1px;
   border-bottom-color:  rgb(10, 10, 10);
