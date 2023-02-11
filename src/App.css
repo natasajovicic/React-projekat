@@ -19,8 +19,8 @@
 }
 
 .cart-num {
-  background-color: rgb(88, 207, 128);
-  color: white;
+  background-color: rgb(88, 207, 98);
+  color: rgb(255, 255, 255);
   border-radius: 10px;
   text-align: center;
   padding-top: 5px;
@@ -36,7 +36,7 @@
 }
 
 .card {
-  border-style: dashed;
+  border-style: ridge;
   border-width: 2px;
   border-color: rgb(35, 17, 115);
   border-radius: 12px;
@@ -56,7 +56,7 @@
 }
 
 .btn {
-  background-color:  rgb(145, 230, 183);
+  background-color:  rgb(85, 190, 133);
   color: white;
   padding-top: 10px;
   padding-bottom: 5px;
@@ -68,7 +68,7 @@
 }
 
 a {
-  color: rgb(45, 17, 115);
+  color: rgb(255, 255, 255);
   text-decoration: none;
   cursor: pointer;
   font-weight: bold;
